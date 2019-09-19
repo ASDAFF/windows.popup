@@ -1,0 +1,13 @@
+{
+  "name": "windows.popup",
+  "version": "1.0.3",
+  "main": "",
+  "ignore": [
+    "source",
+    ".gitignore",
+    ".idea",
+    "bower.json",
+    "gulpfile.js",
+    "package.json"
+  ]
+}
